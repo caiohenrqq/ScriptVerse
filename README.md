@@ -1,5 +1,7 @@
 # ScriptVerse
 
+## Feito para ser usado apenas na Prefeitura Municipal de Ji-Paraná. Porém, é permitido mudar o endereço dos scripts e utilizar normalmente.
+
  ScriptVerse é uma ferramenta de automação e gerenciamento de scripts, projetada para tornar mais prático o processo de lidar com tarefas repetitivas e rotineiras. Com ScriptVerse, você pode organizar e executar uma variedade de scripts com facilidade, economizando tempo e esforço.
  
 # Principais recursos
